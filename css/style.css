@@ -69,6 +69,19 @@ div#block-frasenosotros p {
 .center-image{
     text-align: center;
 }
+.text-comercial > ul > li{
+    font-size: 16px;
+}
+.footer ul.listado-footer li, .footer ul.listado-footer-1 li{
+    list-style-type: disc !important;
+    color: #808080;
+    list-style-image: none;
+    margin: 0;
+    padding: 0 0 0 1em;   
+}
+.footer ul.listado-footer{
+    padding-top:33px;
+}
 
 /*-----------------------------------------------------------*/
 
